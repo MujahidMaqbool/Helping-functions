@@ -11,3 +11,5 @@ get user country info, country code, currency etc..
 Validation for numeric input/ Telephone number
 
 Print user form data. Form submitted by Ajax
+
+Get random color code like #e1e1e1
