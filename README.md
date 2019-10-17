@@ -12,4 +12,4 @@ Validation for numeric input/ Telephone number
 
 Print user form data. Form submitted by Ajax
 
-Get random color code like #e1e1e1
+Get random Hex Color Code like #e1e1e1
