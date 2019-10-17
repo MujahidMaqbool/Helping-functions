@@ -69,3 +69,14 @@ var iti = window.intlTelInput(input, {
 
 var countryData = iti.getSelectedCountryData();
 dialcode.value = countryData.dialCode;
+
+
+//////////Get random color code like #e1e1e1///////////////
+getRandomColor() {
+    var letters = '0123456789ABCDEF';
+    var color = '#';
+    for (var i = 0; i < 6; i++) {
+        color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+}
